@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](./WebGL/index.html)
+[ゲーム](index.html)
