@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](./web-gl/index.html)
+[ゲーム](./webgl/index.html)
