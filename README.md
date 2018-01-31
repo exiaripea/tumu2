@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](./inex.html)
+[ゲーム](./index.html)
