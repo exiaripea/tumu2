@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](index.html)
+[ゲーム](https://exiaripea.github.io/tumu2/)
