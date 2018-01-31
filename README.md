@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](./bild/index.html)
+[ゲーム](tumu2/bild/index.html)
