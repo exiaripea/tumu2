@@ -10,4 +10,4 @@
        
       
       
-[ゲーム](index.html)
+[ゲーム](./bild/index.html)
